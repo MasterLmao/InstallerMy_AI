@@ -1,0 +1,28 @@
+How to install AI:
+
+
+1. Copy file UnrarDLL to this path : "C:\Program Files (x86)"
+2. Turn on the Installer.exe software under admin so that during the installation there are no problems
+3. If have any problems or error, just doing this: 
+    1. Instal your python 3.9 or python new version (Note: accept all and only you not all user)
+    2. Add Environment variable (search: edit the system environment variable and then click Environment Variables)
+    3. Look at the System Variables and then choose Path and then click Edit
+    4. First! Add your file location your python version + "\"
+    5. Then! Add your file location your python version + "\" + "Scripts" + "\"
+    6. Finally! Open your cmd with adminatristor and using pip install to install all these libraries:
+
+    pip install tk/tkinter
+    pip install customtkinter
+    pip install Pillow
+    pip install unrar
+    pip install requests
+    pip install gdown
+    pip install wget
+
+CONTACT:
+Facebook: https://www.facebook.com/profile.php?id=100078091574376
+Email: mrbuhakwy0215@gmail.com
+
+
+THANKS TO USE THIS PROGRAM AND SUPPORT ME 😊😊😊😊
+ENJOY IT!!!
